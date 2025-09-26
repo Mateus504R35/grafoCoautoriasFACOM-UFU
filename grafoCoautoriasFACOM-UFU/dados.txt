@@ -1,0 +1,158 @@
+Alessandra Aparecida Paulino   Não Há Coautores   0
+Anderson Rodrigues dos Santos   Não Há Coautores   0
+André Ricardo Backes   Maurício Cunha Escarpinati   10
+André Ricardo Backes   Marcelo Keese Albertini   5
+André Ricardo Backes   Bruno Augusto Nassif Travençolo   3
+André Ricardo Backes   Leandro Nogueira Couto   3
+André Ricardo Backes   Thiago Pirola Ribeiro   2
+André Ricardo Backes   Jefferson Rodrigo de Souza   2
+André Ricardo Backes   Gina Maira Barbosa de Oliveira   1
+Bruno Augusto Nassif Travençolo   Elaine Ribeiro de Faria Paiva   4
+Bruno Augusto Nassif Travençolo   Fabíola Souza Fernandes Pereira   2
+Bruno Augusto Nassif Travençolo   Gina Maira Barbosa de Oliveira   2
+Bruno Augusto Nassif Travençolo   Jefferson Rodrigo de Souza   1
+Bruno Augusto Nassif Travençolo   José Gustavo de Souza Paiva   5
+Bruno Augusto Nassif Travençolo   Marcelo de Almeida Maia   1
+Bruno Augusto Nassif Travençolo   Marcelo Keese Albertini   5
+Bruno Augusto Nassif Travençolo   Marcelo Zanchetta do Nascimento   6
+Bruno Augusto Nassif Travençolo   André Ricardo Backes   3
+Carlos Roberto Lopes   Fabiano Azevedo Dorça   5
+Carlos Roberto Lopes   Márcia Aparecida Fernandes   5
+Elaine Ribeiro de Faria Paiva   Bruno Augusto Nassif Travençolo   4
+Elaine Ribeiro de Faria Paiva   Fabíola Souza Fernandes Pereira   1
+Elaine Ribeiro de Faria Paiva   Humberto Luiz Razente   1
+Elaine Ribeiro de Faria Paiva   Jefferson Rodrigo de Souza   2
+Elaine Ribeiro de Faria Paiva   Lásaro Jonas Camargos   1
+Elaine Ribeiro de Faria Paiva   Maria Camila Nardini Barioni   6
+Elaine Ribeiro de Faria Paiva   Paulo Henrique Ribeiro Gabriel      1
+Elaine Ribeiro de Faria Paiva   Rita Maria da Silva Julia   4
+Elaine Ribeiro de Faria Paiva   Rodrigo Sanches Miani   5
+Fabiano Azevedo Dorça   Carlos Roberto Lopes   5
+Fabiano Azevedo Dorça   Marcelo de Almeida Maia   1
+Fabiano Azevedo Dorça   Márcia Aparecida Fernandes   5
+Fabiano Azevedo Dorça   Rafael Dias Araújo   15
+Fabiano Azevedo Dorça   Renan Gonçalves Cattelan   10
+Fabíola Souza Fernandes Pereira   Bruno Augusto Nassif Travençolo   2
+Fabíola Souza Fernandes Pereira   Elaine Ribeiro de Faria Paiva   1
+Fabíola Souza Fernandes Pereira   Flávio de Oliveira Silva   1
+Fabíola Souza Fernandes Pereira   Gina Maira Barbosa de Oliveira   1
+Fabíola Souza Fernandes Pereira   João Henrique de Souza Pereira   2
+Fabíola Souza Fernandes Pereira   José Gustavo de Souza Paiva   2
+Fabíola Souza Fernandes Pereira   Lásaro Jonas Camargos   1
+Felipe Alves da Louza   Marcelo Keese Albertini   1  
+Flávio de Oliveira Silva   Fabíola Souza Fernandes Pereira   1
+Flávio de Oliveira Silva   Jefferson Rodrigo de Souza   1
+Flávio de Oliveira Silva   João Henrique de Souza Pereira   5
+Flávio de Oliveira Silva   Lásaro Jonas Camargos   1
+Flávio de Oliveira Silva   Pedro Frosi Rosa   40
+Flávio de Oliveira Silva   Rafael Pasquini   3
+Gina Maira Barbosa de Oliveira   André Ricardo Backes   1
+Gina Maira Barbosa de Oliveira   Bruno Augusto Nassif Travençolo   2
+Gina Maira Barbosa de Oliveira   Fabíola Souza Fernandes Pereira   1
+Gina Maira Barbosa de Oliveira   Laurence Rodrigues do Amaral   2
+Gina Maira Barbosa de Oliveira   Luiz Gustavo Almeida Martins   18
+Gina Maira Barbosa de Oliveira   Maurício Cunha Escarpinati   2
+Gina Maira Barbosa de Oliveira   Murillo Guimarães Carneiro   6
+Gina Maira Barbosa de Oliveira   Stéphane Julia   1
+Henrique Coelho Fernandes   Jefferson Rodrigo de Souza   3
+Henrique Coelho Fernandes   Marcelo Keese Albertini   1
+Henrique Coelho Fernandes   Marcelo Zanchetta do Nascimento   1
+Henrique Coelho Fernandes   Rita Maria da Silva Julia   1
+Humberto Luiz Razente   Elaine Ribeiro de Faria Paiva   1
+Humberto Luiz Razente   Maria Camila Nardini Barioni   30
+Jefferson Rodrigo de Souza   André Ricardo Backes   2
+Jefferson Rodrigo de Souza   Bruno Augusto Nassif Travençolo   1
+Jefferson Rodrigo de Souza   Elaine Ribeiro de Faria Paiva   2
+Jefferson Rodrigo de Souza   Flávio de Oliveira Silva   1
+Jefferson Rodrigo de Souza   Henrique Coelho Fernandes   3
+Jefferson Rodrigo de Souza   Renan Gonçalves Cattelan   1
+Jefferson Rodrigo de Souza   Rodrigo Sanches Miani   4
+Jefferson Rodrigo de Souza   Murillo Guimarães Carneiro   1
+João Henrique de Souza Pereira   Fabíola Souza Fernandes Pereira   2
+João Henrique de Souza Pereira   Flávio de Oliveira Silva   5
+João Henrique de Souza Pereira   Lásaro Jonas Camargos   1
+José Gustavo de Souza Paiva   Bruno Augusto Nassif Travençolo   5
+José Gustavo de Souza Paiva   Fabíola Souza Fernandes Pereira   2
+Lásaro Jonas Camargos   Elaine Ribeiro de Faria Paiva   1
+Lásaro Jonas Camargos   Fabíola Souza Fernandes Pereira   1
+Lásaro Jonas Camargos   Flávio de Oliveira Silva   1
+Lásaro Jonas Camargos   João Henrique de Souza Pereira   1
+Lásaro Jonas Camargos   Paulo Rodolfo da Silva Leite Coelho   5
+Lásaro Jonas Camargos   Pedro Frosi Rosa   1
+Lásaro Jonas Camargos   Rafael Pasquini   9
+Lásaro Jonas Camargos   Rodrigo Sanches Miani   2
+Laurence Rodrigues do Amaral   Gina Maira Barbosa de Oliveira   2
+Laurence Rodrigues do Amaral   Luiz Gustavo Almeida Martins   2
+Leandro Nogueira Couto   André Ricardo Backes   3
+Leandro Nogueira Couto   Thiago Pirola Ribeiro   2
+Luiz Gustavo Almeida Martins   Gina Maira Barbosa de Oliveira   18
+Luiz Gustavo Almeida Martins   Laurence Rodrigues do Amaral   2
+Luiz Gustavo Almeida Martins   Maurício Cunha Escarpinati   1
+Marcelo de Almeida Maia   Bruno Augusto Nassif Travençolo   1
+Marcelo de Almeida Maia   Fabiano Azevedo Dorça   1
+Marcelo de Almeida Maia   Rafael Dias Araújo   4 
+Marcelo de Almeida Maia   Rivalino Matias Júnior   1 
+Marcelo de Almeida Maia   Stéphane Julia   1
+Marcelo Keese Albertini   André Ricardo Backes   5
+Marcelo Keese Albertini   Bruno Augusto Nassif Travençolo   5
+Marcelo Keese Albertini   Henrique Coelho Fernandes   1
+Marcelo Keese Albertini   Rita Maria da Silva Julia   1
+Marcelo Keese Albertini   Felipe Alves da Louza   1
+Marcelo Keese Albertini   Paulo Henrique Ribeiro Gabriel   1
+Marcelo Zanchetta do Nascimento   Bruno Augusto Nassif Travençolo   6 
+Marcelo Zanchetta do Nascimento   Rita Maria da Silva Julia   2
+Marcelo Zanchetta do Nascimento   Henrique Coelho Fernandes   1   
+Márcia Aparecida Fernandes   Fabiano Azevedo Dorça   5
+Márcia Aparecida Fernandes   Carlos Roberto Lopes   5
+Márcia Aparecida Fernandes   Rafael Dias Araújo   1
+Márcia Aparecida Fernandes   Rivalino Matias Júnior   1 
+Maria Camila Nardini Barioni   Humberto Luiz Razente   30 
+Maria Camila Nardini Barioni   Elaine Ribeiro de Faria Paiva   6 
+Maurício Cunha Escarpinati   Luiz Gustavo Almeida Martins   1
+Maurício Cunha Escarpinati   André Ricardo Backes   10 
+Maurício Cunha Escarpinati   Gina Maira Barbosa de Oliveira   2
+Murillo Guimarães Carneiro   Gina Maira Barbosa de Oliveira   6 
+Murillo Guimarães Carneiro   Rodrigo Sanches Miani   1
+Murillo Guimarães Carneiro   Rodrigo de Souza   1
+Paulo Henrique Ribeiro Gabriel   Elaine Ribeiro de Faria Paiva   1 
+Paulo Henrique Ribeiro Gabriel   Rodrigo Sanches Miani   1 
+Paulo Henrique Ribeiro Gabriel   Marcelo Keese Albertini   1  
+Paulo Rodolfo da Silva Leite Coelho   Lásaro Jonas Camargos   5
+Pedro Frosi Rosa   Flávio de Oliveira Silva   40
+Pedro Frosi Rosa   Rodrigo Sanches Miani   3
+Pedro Frosi Rosa   Lásaro Jonas Camargos   1
+Pedro Frosi Rosa   Rafael Pasquini   2 
+Rafael Dias Araújo   Marcelo de Almeida Maia   4   
+Rafael Dias Araújo   Márcia Aparecida Fernandes   1 
+Rafael Dias Araújo   Fabiano Azevedo Dorça   15
+Rafael Dias Araújo   Renan Gonçalves Cattelan   14 
+Rafael Dias Araújo   Márcia Aparecida Fernandes   1
+Rafael Pasquini   Lásaro Jonas Camargos   9 
+Rafael Pasquini   Flávio de Oliveira Silva   3 
+Rafael Pasquini   Pedro Frosi Rosa   2
+Rafael Pasquini   Rodrigo Sanches Miani   2
+Renan Gonçalves Cattelan   Rafael Dias Araújo   14
+Renan Gonçalves Cattelan   Fabiano Azevedo Dorça   10   
+Renan Gonçalves Cattelan   Jefferson Rodrigo de Souza   1
+Rita Maria da Silva Julia   Marcelo Keese Albertini   1
+Rita Maria da Silva Julia   Marcelo Zanchetta do Nascimento   2 
+Rita Maria da Silva Julia   Elaine Ribeiro de Faria Paiva   4
+Rita Maria da Silva Julia   Rivalino Matias Júnior   1
+Rita Maria da Silva Julia   Stéphane Julia   1
+Rita Maria da Silva Julia   Henrique Coelho Fernandes   1
+Rivalino Matias Júnior   Marcelo de Almeida Maia   1  
+Rivalino Matias Júnior   Márcia Aparecida Fernandes   1 
+Rivalino Matias Júnior   Rita Maria da Silva Julia   1 
+Rodrigo Sanches Miani   Elaine Ribeiro de Faria Paiva   5
+Rodrigo Sanches Miani   Jefferson Rodrigo de Souza   4
+Rodrigo Sanches Miani   Pedro Frosi Rosa   3
+Rodrigo Sanches Miani   Lásaro Jonas Camargos   2 
+Rodrigo Sanches Miani   Rafael Pasquini   2 
+Rodrigo Sanches Miani   Paulo Henrique Ribeiro Gabriel   1
+Rodrigo Sanches Miani   Renan Gonçalves Cattelan   1 
+Shigueo Nomura   Não Há Coautores   0 
+Stéphane Julia   Marcelo de Almeida Maia   1
+Stéphane Julia   Gina Maira Barbosa de Oliveira   1 
+Stéphane Julia   Rita Maria da Silva Julia   1
+Thiago Pirola Ribeiro   André Ricardo Backes   2
+Thiago Pirola Ribeiro   Leandro Nogueira Couto   2
